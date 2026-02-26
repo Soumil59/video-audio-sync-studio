@@ -15,10 +15,6 @@ Professional desktop application for automatic audio-video synchronization using
 - 🔧 **Flexible Settings**: Resolution scaling, bitrate control, 9 quality presets
 - 🎛️ **Audio Options**: Mute original or mix both audio tracks
 
-## 🎥 Demo
-
-
-
 ## 📋 Prerequisites
 
 - **Python 3.8 or higher**
