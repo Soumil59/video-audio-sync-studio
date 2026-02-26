@@ -17,7 +17,7 @@ Professional desktop application for automatic audio-video synchronization using
 
 ## 🎥 Demo
 
-[Add your demo video/screenshots here]
+
 
 ## 📋 Prerequisites
 
